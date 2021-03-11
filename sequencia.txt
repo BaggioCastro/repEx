@@ -1,0 +1,17 @@
+sequencia de comandos git
+
+git clone https://github.com/BaggioCastro/repEx.git
+cd repEx/
+vim arquivo1.txt
+git add arquivo1.txt
+git status
+git commit -m "Adicionando o primeiro arquivo"
+vim arquivo2.txt
+git add arquivo2.txt
+git status
+git commit -m "Adicionando o segundo arquivo"
+git push
+vim sequencia.txt
+git add sequencia.txt
+git commit -m "adicionando arquivo com as sequencias de comandos git"
+git push
